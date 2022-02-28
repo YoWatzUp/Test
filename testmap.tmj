@@ -32,6 +32,12 @@
          "id":8,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/RazorRascalRasak\/4lthangrund_workadventure\/main\/test.tmj"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
